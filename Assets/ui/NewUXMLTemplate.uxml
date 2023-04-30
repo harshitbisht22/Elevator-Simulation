@@ -1,0 +1,29 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement style="height: 448px; width: 123px; align-items: center;">
+        <ui:GroupBox style="width: 76px; height: 213px;">
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+        </ui:GroupBox>
+        <ui:GroupBox style="width: 52px; height: 213px; position: absolute; top: 0; left: 69px;">
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+            <ui:Button text="UP" display-tooltip-when-elided="true" style="width: 43px;" />
+        </ui:GroupBox>
+    </ui:VisualElement>
+    <ui:VisualElement style="width: 217px; height: 450px; flex-direction: column; align-items: center; justify-content: flex-end; right: 0; position: absolute;" />
+</ui:UXML>
